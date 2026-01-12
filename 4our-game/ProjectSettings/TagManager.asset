@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - nature_enemy
+  - fire_enemy
+  - water_enemy
+  - lightning_enemy
+  - fire_projectile
+  - nature_projectile
+  - water_projectile
+  - lightning_projectile
+  - ChainTrigger
+  - Audio
+  - fire_boss
+  - water_boss
+  - lightning_boss
+  - nature_boss
+  - AmmoDrop
+  - Boss
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Text
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 2783566991
+    locked: 0
+  - name: Ground Decoration
+    uniqueID: 2158241139
+    locked: 0
+  - name: Player
+    uniqueID: 1757833129
+    locked: 0
+  - name: Upper House Part
+    uniqueID: 3453058243
+    locked: 0
+  - name: Lower House
+    uniqueID: 1511645947
+    locked: 0
+  - name: 'Enemy '
+    uniqueID: 1638965713
+    locked: 0
